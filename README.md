@@ -26,7 +26,7 @@ This repository is a back-end file of server_app application<br/>
 
 This project was developed with the following technologies:
 
-- Java & Spring Framework 🍃
+- Java & Spring Boot 🍃
 - MySQL 🐬
 - Postman 
 - Git & Github 
